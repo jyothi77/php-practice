@@ -1,0 +1,180 @@
+.banner {
+  background-color: #1c2a40;
+  height: 600px;
+}
+
+.menu {
+  padding: 10px 30px 10px 30px;
+}
+.nav-padding {
+  padding: 10px 8px 16px 14px;
+}
+.text-style {
+  color: white;
+  padding: 9px 6px 5px 15px;
+}
+
+input {
+  margin: 0px;
+  padding: 20px 10px 20px 10px;
+  width: 100%;
+  outline: none;
+  height: 30px;
+  border-radius: 5px;
+}
+
+.img {
+  width: 100%;
+}
+
+.paragraph {
+  font-size: 20px;
+}
+
+.color {
+  color: #001f8d;
+}
+.color2 {
+  color: #26416d;
+}
+.color3 {
+  color: #001973;
+  font-size: 40px;
+}
+.server h4:hover {
+  text-decoration: none;
+  border-bottom: 2px solid red;
+}
+.color4 {
+  color: #001973;
+}
+.backgournd {
+  background-image: url("../images/back.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 450px;
+}
+
+.margin {
+  margin-bottom: 20px;
+}
+.arrow {
+  padding: 0px 15px 24px 20px;
+  font-size: 20px;
+  color: blue;
+}
+
+.number {
+  font-size: 50px;
+  color: blue;
+}
+.check {
+  position: relative;
+  top: 24px;
+  right: 18px;
+  color: green;
+}
+
+.shadow {
+  box-shadow: 5px 10px 5px 10px;
+}
+
+.rounded-corners {
+  margin-top: 80px;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  width: 100px;
+
+  border: 5px solid rgba(255, 255, 255, 0.2);
+}
+
+.slider-background {
+  background-image: url("../images/nature2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 420px;
+}
+.slider {
+  color: white;
+}
+.qoute {
+  color: white;
+}
+.qoute2 {
+  color: white;
+}
+
+.faq-color {
+  color: red;
+}
+.shadow {
+  box-shadow: 5px 10px 5px 10px;
+}
+.faq-icon {
+  padding: 11px 18px 20px 22px;
+  font-size: 20px;
+  color: blue;
+}
+.faq-arrow {
+  padding: 13px 23px 19px 89px;
+}
+.color5 {
+  color: blue;
+  font-size: 25px;
+}
+.youtube {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  color: red;
+  font-size: 80px;
+}
+.border1 {
+  border-bottom: 3px solid blue;
+}
+.icon-color {
+  padding: 5px 10px 10px 10px;
+  font-size: 32px;
+  color: blue;
+}
+.icon-color2 {
+  padding: 6px 33px 16px 25px;
+  font-size: 40px;
+  color: blue;
+}
+
+.foote-section {
+  background-color: #0e1d34;
+  padding: 10px 10px 10px 10px;
+
+  padding: 38px 19px 20px 48px;
+  /* height: 400px; */
+}
+
+.icons {
+  color: white;
+  font-size: 13px;
+  margin: 10px 10px 10px 10px;
+}
+.font-color {
+  color: white;
+}
+
+.red {
+  color: blue;
+  font-size: 30px;
+}
+.nav-icon {
+  color: red;
+}
+
+.navbar-nav li a {
+  color: white !important;
+  text-decoration: none !important;
+}
